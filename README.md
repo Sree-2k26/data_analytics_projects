@@ -6,11 +6,6 @@
 
 🔍 SQL queries? Check them out here: [ipl_project_final.sql](./ipl_project_final.sql)
 
-📊 Excel Dashboard & Visuals: [FINAL_EXCEL.xlsx](./FINAL_EXCEL.xlsx)
-
-📝 Detailed Report: [FINAL_WORD_DOC.pdf](./FINAL_WORD_DOC.pdf)
-
-📊 Project Presentation: [RCBIPL_SQL_Project.pptx](./RCBIPL_SQL_Project.pptx)
 
 ---
 
